@@ -1,6 +1,6 @@
 # Spring 2022 CS 135 Review Session
 ## Author: Prim Wandeevong 
-# 
+
 ### letters.c 
 ##### Full program example of File IO, pointers, pass by value, pass by address, and switch statements)
 #
