@@ -2,10 +2,10 @@
 Author: Prim Wandeevong 
 
 ## letters.c 
-Full program example of File IO, pointers, pass by value, pass by address, and switch statements)
+Full program example of File IO, pointers, pass by value, pass by address, and switch statements
 
 ## fscanf.c
-Example of how to use fscanf's return value in an if statement
+Example of how to use fscanf's return value in an if statement / what it means
 
 ## pointer_paraneters.c
 Example of pass by value, pass by address, and pointer arithmetic + syntax
